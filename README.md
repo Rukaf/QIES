@@ -5,9 +5,9 @@ Zero Shot Macro-F1 Score: QIES 81.5% vs TATA 77.1%
 <br>
 Few Shot Macro-F1 Score: QIES 77.3% vs TATA 74.1%
 
-TATA Model : https://aclanthology.org/2023.emnlp-main.694/
+TATA Model (EMNLP 2023) : https://aclanthology.org/2023.emnlp-main.694/
 <br>
-A prototype of ours : https://colab.research.google.com/drive/10QBv8QpyuwH2U9D6VNXHtFbMzTp1sujz?usp=sharing
+QIES prototype : https://colab.research.google.com/drive/10QBv8QpyuwH2U9D6VNXHtFbMzTp1sujz?usp=sharing
 
 
 <br>
